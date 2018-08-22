@@ -13,8 +13,8 @@ Para el presente proyecto decidimos usar las siguientes herramientas:
 |Etapa de proceso design thinking|Actividad|Descripción|Puntos|
 |:----|:----|:---|:---:|
 |Descubrimiento e investigación|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Descubrimiento e investigación|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Descubrimiento e investigación|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 
+|Ideación|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Síntesis y definición|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
 |Prototipado|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
 |Prototipado|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
@@ -44,10 +44,6 @@ Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery 
 
 ### Problemas identificados en la investigación (del cliente y del usuario)
 
-### Benchmark
-
-![](https://user-images.githubusercontent.com/39272944/44460240-eac00200-a5d1-11e8-97ee-52847412465b.jpg)
-
 ## Síntesis de definición
 
 ### Flujo árbol de contenidos 
@@ -61,6 +57,8 @@ Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery 
 ### Definición de la solución/producto
 
 ## **Ideación**
+### Benchmark
+![](https://user-images.githubusercontent.com/39272944/44460240-eac00200-a5d1-11e8-97ee-52847412465b.jpg)
 
 
 
