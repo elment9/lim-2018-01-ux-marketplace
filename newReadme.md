@@ -1,4 +1,5 @@
 <center>  MARJET PLACE FRUTA LA GRANDE </center>
+
 ![Logo](img/logo.png)
 
 ## ¿Qué es Fruta La Grande?
@@ -40,11 +41,11 @@ Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery 
 ![](https://user-images.githubusercontent.com/39272944/44460124-974db400-a5d1-11e8-85ec-1d667eeda23d.jpg)
 ![](https://user-images.githubusercontent.com/39272944/44460128-9ae13b00-a5d1-11e8-8364-e11d306f02e4.jpg)
 
-* Respuestas de la guía de entrevistas con clientes.
+* Respuestas de la guía de entrevistas con clientes
 
-![](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit)
+[**Lee las respuestas de la entrevista aqui**](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit?usp=sharing)
 
-* Conclusiones.
+* Conclusiones
 
 En Fruta la Grande desean transmitir un servicio de calidad, caracterizándose por el buen trato al cliente, brindando una fruta adicional de cortesía. El proceso de venta consiste en la importación desde Ica, empaquetado en cajas personalizadas y envío por delivery. Trabajan 4 personas en total que comercializan 25 tipos de frutas. Los cobros son vía trasferencia por cuentas en BCP, Continental o Interbank, y actualmente pueden pasar sus tarjetas de crédito mediante VisaNet. Los trabajadores de Fruta La grande requiere los siguientes datos para la confirmación de un pedido: las cantidades, la dirección de envío , el teléfono, quién va recibir el envío y el medio de pago. El principal medio de comunicación es Facebook. 
 
