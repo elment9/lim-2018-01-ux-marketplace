@@ -1,12 +1,13 @@
-<center>  MARKETPLACE FRUTA LA GRANDE </center>
+# MARKETPLACE FRUTA LA GRANDE 
 
-<img width="560" alt="logo 2x" src="https://user-images.githubusercontent.com/39272944/44957304-73725400-ae96-11e8-8e96-1c5d304d2af1.png">
+<img width="200" alt="logo 2x" src="https://user-images.githubusercontent.com/39272944/44957304-73725400-ae96-11e8-8e96-1c5d304d2af1.png">
 
 
 ## I. ¿Qué es Fruta La Grande?
 Fruta La Grande un emprendimiento dedicado a la venta de frutas orgánicas y de huerto de calidad y excelente precio. 
 
 Trabajan bajo la modalidad 'delivery' y llevan sus productos a distintos puntos de Lima. 
+
 
 ## II. Objetivos de proyecto
 
@@ -32,9 +33,9 @@ Para el presente proyecto decidimos usar las siguientes herramientas:
 
 De acuerdo a la Sociedad Peruana de Gastronomía (Apega), el consumo de productos orgánicos se ha incrementado en un 70% durante los últimos 10 años. Esta demando ha aumentado la oferta, por ello a la tradicional bioferia de Miraflores se han sumado otras ferias distritales y emprendimientos como **Fruta La Grande**.  
 
-Estos últimos resultan importantes, porque según un informe de la revista Semana Económica, el valor económico de una canasta alimentaria de una tienda orgánica es un 73% mayor que una comprada en supermercado, y 48% mayor que una comprada en una bioferia. Y en términos generales una canasta alimntaria orgánica comprada en una tienda es 19% más cara que una comprada en una bioferia. (https://bit.ly/2nY2KjL) 
+Estos últimos resultan importantes, porque según un informe de la revista Semana Económica, el valor económico de una canasta alimentaria de una tienda orgánica es un 73% mayor que una comprada en supermercado, y 48% mayor que una comprada en una bioferia. Y en términos generales una canasta alimentaria orgánica comprada en una tienda es 19% más cara que una comprada en una bioferia. (https://bit.ly/2nY2KjL) 
 
-Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery gratuito y y que las bioferias requieren que el usuario se desplace, este contexto favorece a nuestro cliete. 
+Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery gratuito y y que las bioferias requieren que el usuario se desplace, este contexto favorece a nuestro cliente. 
 
 ![](https://user-images.githubusercontent.com/39272944/44459906-d7f8fd80-a5d0-11e8-949e-aae48c132131.png)
 
@@ -45,33 +46,36 @@ Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery 
 ![](https://user-images.githubusercontent.com/39272944/44460118-91f06980-a5d1-11e8-8396-202447e787ec.jpg)
 ![](https://user-images.githubusercontent.com/39272944/44460124-974db400-a5d1-11e8-85ec-1d667eeda23d.jpg)
 ![](https://user-images.githubusercontent.com/39272944/44460128-9ae13b00-a5d1-11e8-8364-e11d306f02e4.jpg)
-
-### b.  Conclusiones
-
-* Los trabajadores de Fruta La grande requiere los siguientes datos para la confirmación de un pedido: las cantidades, la dirección de envío , el teléfono, quién va recibir el envío y el medio de pago. 
-
+### b.  Problemas identificados
 * El principal medio de comunicación es Facebook.
 
-* Los principales clientes de Fruta La grande son mujeres divididas en dos categorías: mujeres de 18 a 20 años de edad, que normalmente consumen berries, arándanos, fresas y moras, y mujeres de 25 a más , que por lo general consumen papaya y piña. 
+* Los trabajadores de Fruta La grande requieren los siguientes datos para la confirmación de un pedido: las cantidades, la dirección de envío, el teléfono, quién va recibir el envío y el medio de pago. 
+
+* Los principales clientes de Fruta La grande son mujeres divididas en dos categorías: mujeres de 18 a 20 años de edad, que normalmente consumen berries, arándanos, fresas y moras, y mujeres de 25 a más, que por lo general consumen papaya y piña. 
 
 * La zona con mayor cantidad de consumidores es Surco. Su distribución es a distritos segmentados de Lima (San Isidro, Surco, Miraflores). 
 
-* Por lo general, los clientes habituales hacen un pedido a la semana. 
+* Por lo general, los clientes habituales hacen un pedido a la semana.
+### c.  Problemas identificados
 
-* Las preguntas que los usuarios hacen con más frecuencia son: precio, costo del delivery, disponibilidad y horario de entrega.
+* Los usuarios hacen pedidos en diferentes horarios, incluso a altas horas de la noche. Para el cliente es complejo atender de forma ordenada (vía Facebook o Whatsapp) todos los pedidos. Hay que tener en cuenta que los pedidos se hacen con un día de anticipación, ya que así se puede seleccionar los productos, armar y decorar la caja.  
 
+* Las preguntas más frecuentes de los usuarios nuevos son: precio, costo del delivery, disponibilidad y horario de entrega.
+
+* Por el momento, los pagos se realizan mediante depósitos, pago a contraentrega (incluye POS); no obstante, indican que les gustaría aprovechar otras formas de pago.
 
 [**Lee las respuestas de la entrevista aqui**](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit?usp=sharing)
 
 ### 3. Entrevista con usuarios
+![mesa de trabajo 1 2x-100](https://user-images.githubusercontent.com/39272944/44958101-c8b36300-aea0-11e8-90f4-f0a0349bac77.jpg)
 
 ### a. Guía de preguntas
 ### b. Insights
 Para extraer los siguientes insights se realizó la técnica del affinity map:
 
-* Una gran parte de usuarios prefiere pagar a contraentrega en efectivo. Desconfían de los pagos por Internet en el que usan  su tarjeta, ya que temen que les roben los datos de su tarjeta.
+* Una gran parte de usuarios prefiere pagar a contraentrega en efectivo. Desconfían de los pagos por Internet en el que usan  su tarjeta, ya que temen que les roben los datos.
 
-* Los usuarios prefieren comprar fruta orgánica en ferias y supermercados por la buena atención que reciben, la calidad de los producto y la limpieza del lugar.
+* Los usuarios prefieren comprar fruta orgánica en ferias y supermercados por la buena atención que reciben(amabilidad), la calidad de los productos y la limpieza del lugar.
 
 ### B. SÍNTESIS Y DEFINICIÓN 
 ### 1. Affinity map
@@ -79,7 +83,11 @@ Para extraer los siguientes insights se realizó la técnica del affinity map:
 ### 2. User persona
 ![2 - user-persona-completado](https://user-images.githubusercontent.com/39272944/44957643-a36f2680-ae99-11e8-91f7-39e5e9560685.jpg)
 ### 3. Customer Journey map
+![3 customer journey map](https://user-images.githubusercontent.com/39272944/44958912-9f98cf80-aeac-11e8-89e2-68ef487c793a.jpg)
+
 ### 4. Card sorting online
+Esta actividad se realizó luego de testear el prototipo de alta fidelidad. Los usuarios se tomaban mucho tiempo en encontrar una fruta que se les asignaba como tarea. Así que se decidió crear una nueva clasificación y hacer que los usuarios organicen los productos. 
+
 ![cardsorting](https://user-images.githubusercontent.com/39272944/44957601-4b382480-ae99-11e8-847a-78c1d3eb1043.PNG)
 
 ![matrix](https://user-images.githubusercontent.com/39272944/44957588-28a60b80-ae99-11e8-9a17-7d03b99d3aa1.PNG)
@@ -89,8 +97,9 @@ Para extraer los siguientes insights se realizó la técnica del affinity map:
 ### C. IDEACIÓN
 ### 1. Benchmarking
 ### 2. What if
-
-### C. PROTOTIPADO
+* ¿Qué tal si el usuario no quisiera registrarse?
+* ¿Qué tal si creamos un personaje que sea igual de amable que los vendedores y que guíe al usuario durante la compra?
+### D. PROTOTIPADO
 ### 1. Desktop
 ### a. Baja fidelidad
 ![1](https://user-images.githubusercontent.com/39272944/44957697-5fc8ec80-ae9a-11e8-96d8-07aa8a73efe5.jpg)
@@ -103,45 +112,56 @@ Para extraer los siguientes insights se realizó la técnica del affinity map:
 ### b. Wireframe (media)
 Encuentra el prototipo de media fidelidad [AQUÍ](https://www.figma.com/file/KfH0UszFAMTPflswEGfWyk6z/marketplaces?node-id=0%3A1)
 ### c. Alta fidelidad
+* Encuentra el prototipo de alta fidelidad [AQUÍ](https://www.figma.com/file/0LyvS352VAzhU8hKW3hbV0wE/Market-Place?node-id=0%3A1)
+
+* Link de Marvel [AQUÍ](https://marvelapp.com/9df4667/screen/47291154)
 
 ### 2. Mobile
 
 ### a. Baja fidelidad
+![mesa de trabajo 1 2x-100](https://user-images.githubusercontent.com/39272944/44958030-b38a0480-ae9f-11e8-9b77-8f874928e3cf.jpg)
 
 ### b. Wireframe (media)
+Encuentra el prototipo de media fidelidad [AQUÍ](https://www.figma.com/file/EjCF9EzEqXAK2Uw98eYsAidI/Untitled?node-id=2%3A2)
+
+### c. Alta fidelidad
+Encuentra el prototipo de alta fidelidad [AQUÍ](https://marvelapp.com/9ebb6a0/screen/47377260)
+
+### E. TESTING
+### 1. Desktop
+### a. Baja fidelidad
+### a.1.  Vista 1: home
+- El usuario no vio el logo de la empresa. Lo primero que captó su atención fue una sección del menú (´nosotros´).
+- La sección ‘compra aquí’ no fue reconocida por el usuario. Por ello, colocaremos otro  nombre.
+### a.2. Vista 2 y 3 : tienda
+- No tiene claro el flujo para añadir un producto a la canasta. No entiende la funcionalidad de la canasta general hasta que realiza un pedido. Por este motivo se agregó un rótulo a la canasta general. 
+Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeño.
+- No le presta importancia a la etiqueta que indica cantidad de productos seleccionados.  Por ello, se especificó esto en la canasta general.
+### a.3. Vista 4: Lista de productos
+- El usuario se tomó demasiado tiempo en entender la funcionalidad de la sección. Por ello la reorganizamos de tal forma que pueda elegir la cantidad y se centre solo en el total a pagar.
+### a.4. Vista 5: Solicitud de datos y forma de pago
+- Los usuarios prefieren que se le solicite primero el nombre, luego el email y después la contraseña.
+- Los usuarios no entienden cómo continuar su compra. Por ello creamos un botón que indique continuar.
+- No encuentran la diferencia entre la opción delivery y entrega rápida. Por ello, reorganizamos la estructura para que pueda seleccionar de entre delivery y retiro en tienda.
+- Con respecto a forma de pago, la más usada fue contraentrega, le sigue pago con tarjeta. Nadie optó por la opción depósito. Dos usuarios se cuestionaron por qué estaba allí. Esto fue razón suficiente como para eliminarla. 
+
+### b. Wireframe (media)
+- Cuando se le indica que agregue un producto nuevo a su canasta, el usuario hace clic en la imagen. Ellos indican que quieren ver más detalles del producto antes de comprarlo.
+- Hace clic en la imagen ‘esta venta es segura’ como si se tratara de un botón. Expresan que puede ser un código de barras. 
+- Lo primero que observan es el contenido de la canasta y no el modo de entrega. 
+- Le agrada que indique el día de entrega, pero quiere rango de hora ya que no se encuentra todo el día en casa.
+- Prefiere loguearse y registrarse con Facebook o Google.
+- Pregunta qué sucede si solo quiere comprar por única vez.
+- No entiende que es un POS
+
 ### c. Alta fidelidad
 
-### Problemas identificados en la investigación (del cliente y del usuario)
+## V. Planificación 
+### A. Organizador 
+![image](https://user-images.githubusercontent.com/39272944/44961139-64f55e00-aed1-11e8-8168-32136c9d47b6.png)
 
-## Síntesis de definición
-
-### Flujo árbol de contenidos 
-
-### Definición del público objetivo
-
-    * User persona
-
-    * Customer Journey Map (indicando pain y gain points)
-
-### Definición de la solución/producto
-
-## **Ideación**
-### Benchmark
-![](https://user-images.githubusercontent.com/39272944/44460240-eac00200-a5d1-11e8-97ee-52847412465b.jpg)
-
-
-
-## **Prototipado**
-
-### Sketching y wireframing
-
-### Link a prototipo navegable 
-
-### Prototipado de alta fidelidad
-
-## **Testeo con usuarios**
-
-### Testeo de prototipos
+### B. Issues GitHub
+![image](https://user-images.githubusercontent.com/39272944/44961190-58253a00-aed2-11e8-9c5c-3472bd133fc1.png)
 
 ==============================
 
