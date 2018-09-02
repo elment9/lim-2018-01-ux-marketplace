@@ -168,6 +168,16 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 |-| - | - |- |Mamey |
 |-| - | - |- |Kiwi |
 
+### 2. Mobile
+### a. Baja fidelidad
+- El usuario cree que el logo es clickeable y lo redirige a la página de inicio
+- En la página de inicio espera ver las principales ofertas y un buscador que las encuentre más rápidamente.
+- El usuario pensó que el precio del delivery era único debido a que no aparece el input de distrito.
+- El usuario espera que llegue un recibo o aviso de que el producto ha sido enviado para ver los detalles de la compra.
+- El usuario no logra ubicar el botón de registro. 
+
+### b. Alta fidelidad
+
 
 
 ## V. Planificación 
