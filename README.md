@@ -1,13 +1,18 @@
 <center>  MARKETPLACE FRUTA LA GRANDE </center>
 
-![Logo](img/logo.png)
+<img width="560" alt="logo 2x" src="https://user-images.githubusercontent.com/39272944/44957304-73725400-ae96-11e8-8e96-1c5d304d2af1.png">
 
-## ¿Qué es Fruta La Grande?
-Fruta La Grande un emprendimiento dedicado a la venta de frutas orgánicas con calidad y excelente precio.
 
-Trababajan bajo la modalidad 'delivery' y llevan sus productos a distintos puntos de la capittal.
+## I. ¿Qué es Fruta La Grande?
+Fruta La Grande un emprendimiento dedicado a la venta de frutas orgánicas y de huerto de calidad y excelente precio. 
 
-## Fundamentación / Presupuesto 
+Trabajan bajo la modalidad 'delivery' y llevan sus productos a distintos puntos de Lima. 
+
+## II. Objetivos de proyecto
+
+Crear una plataforma online que mejore y haga más fácil el proceso de compra de los productos de Fruta La Grande.
+
+## III. Fundamentación / Presupuesto 
 
 Para el presente proyecto decidimos usar las siguientes herramientas:
 
@@ -21,8 +26,9 @@ Para el presente proyecto decidimos usar las siguientes herramientas:
 |Prototipado|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
 |Testeo con usuarios|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
 
-## **Descubrimiento e investigación** 
-###  Antecedentes
+## IV. Proceso de diseño UX
+### A. DESCUBRIMIENTO 
+### 1. Antecedentes
 
 De acuerdo a la Sociedad Peruana de Gastronomía (Apega), el consumo de productos orgánicos se ha incrementado en un 70% durante los últimos 10 años. Esta demando ha aumentado la oferta, por ello a la tradicional bioferia de Miraflores se han sumado otras ferias distritales y emprendimientos como **Fruta La Grande**.  
 
@@ -32,28 +38,78 @@ Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery 
 
 ![](https://user-images.githubusercontent.com/39272944/44459906-d7f8fd80-a5d0-11e8-949e-aae48c132131.png)
 
-
-### Entrevista con clientes
-* Guía de preguntas.
+### 2. Entrevista con el cliente
+### a. Guía de preguntas
 
 ![](https://user-images.githubusercontent.com/39272944/44460110-8c931f00-a5d1-11e8-9705-72589d07a40f.jpg)
 ![](https://user-images.githubusercontent.com/39272944/44460118-91f06980-a5d1-11e8-8396-202447e787ec.jpg)
 ![](https://user-images.githubusercontent.com/39272944/44460124-974db400-a5d1-11e8-85ec-1d667eeda23d.jpg)
 ![](https://user-images.githubusercontent.com/39272944/44460128-9ae13b00-a5d1-11e8-8364-e11d306f02e4.jpg)
 
-* Respuestas de la guía de entrevistas con clientes
+### b.  Conclusiones
+
+* Los trabajadores de Fruta La grande requiere los siguientes datos para la confirmación de un pedido: las cantidades, la dirección de envío , el teléfono, quién va recibir el envío y el medio de pago. 
+
+* El principal medio de comunicación es Facebook.
+
+* Los principales clientes de Fruta La grande son mujeres divididas en dos categorías: mujeres de 18 a 20 años de edad, que normalmente consumen berries, arándanos, fresas y moras, y mujeres de 25 a más , que por lo general consumen papaya y piña. 
+
+* La zona con mayor cantidad de consumidores es Surco. Su distribución es a distritos segmentados de Lima (San Isidro, Surco, Miraflores). 
+
+* Por lo general, los clientes habituales hacen un pedido a la semana. 
+
+* Las preguntas que los usuarios hacen con más frecuencia son: precio, costo del delivery, disponibilidad y horario de entrega.
+
 
 [**Lee las respuestas de la entrevista aqui**](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit?usp=sharing)
 
-* Conclusiones
+### 3. Entrevista con usuarios
 
-En Fruta la Grande desean transmitir un servicio de calidad, caracterizándose por el buen trato al cliente, brindando una fruta adicional de cortesía. El proceso de venta consiste en la importación desde Ica, empaquetado en cajas personalizadas y envío por delivery. Trabajan 4 personas en total que comercializan 25 tipos de frutas. Los cobros son vía trasferencia por cuentas en BCP, Continental o Interbank, y actualmente pueden pasar sus tarjetas de crédito mediante VisaNet. Los trabajadores de Fruta La grande requiere los siguientes datos para la confirmación de un pedido: las cantidades, la dirección de envío , el teléfono, quién va recibir el envío y el medio de pago. El principal medio de comunicación es Facebook. 
+### a. Guía de preguntas
+### b. Insights
+Para extraer los siguientes insights se realizó la técnica del affinity map:
 
-Los principales clientes de Fruta La grande son mujeres divididas en dos categorías: mujeres de 18 a 20 años de edad, que normalmente consumen berries, arándanos, fresas y moras, y mujeres de 25 a más , que por lo general consumen papaya y piña. La zona con mayor cantidad de consumidores es Surco. Su distribución es a distritos segmentados de Lima (San Isidro, Surco, Miraflores). La frecuencia del pedido es semanal si es un cliente constante, si es un cliente nuevo, la frecuencia del pedido es cada dos semanas. Las características más resaltantes que los usuarios preguntan son: precio, delivery (gratuito), disponibilidad y horario de entrega. 
-La cliente solicita una base de datos donde pueda visualizar el distrito, la dirección, frecuencia del cliente.
+* Una gran parte de usuarios prefiere pagar a contraentrega en efectivo. Desconfían de los pagos por Internet en el que usan  su tarjeta, ya que temen que les roben los datos de su tarjeta.
 
+* Los usuarios prefieren comprar fruta orgánica en ferias y supermercados por la buena atención que reciben, la calidad de los producto y la limpieza del lugar.
 
-### Entrevista con usuarios
+### B. SÍNTESIS Y DEFINICIÓN 
+### 1. Affinity map
+![1 affinity map](https://user-images.githubusercontent.com/39272944/44957640-9d794580-ae99-11e8-9273-426a184cb3fd.jpg)
+### 2. User persona
+![2 - user-persona-completado](https://user-images.githubusercontent.com/39272944/44957643-a36f2680-ae99-11e8-91f7-39e5e9560685.jpg)
+### 3. Customer Journey map
+### 4. Card sorting online
+![cardsorting](https://user-images.githubusercontent.com/39272944/44957601-4b382480-ae99-11e8-847a-78c1d3eb1043.PNG)
+
+![matrix](https://user-images.githubusercontent.com/39272944/44957588-28a60b80-ae99-11e8-9a17-7d03b99d3aa1.PNG)
+
+### 5. Flujo / árbol de contenidos
+
+### C. IDEACIÓN
+### 1. Benchmarking
+### 2. What if
+
+### C. PROTOTIPADO
+### 1. Desktop
+### a. Baja fidelidad
+![1](https://user-images.githubusercontent.com/39272944/44957697-5fc8ec80-ae9a-11e8-96d8-07aa8a73efe5.jpg)
+![2](https://user-images.githubusercontent.com/39272944/44957698-5fc8ec80-ae9a-11e8-9770-c26a32751fb6.jpg)
+![3](https://user-images.githubusercontent.com/39272944/44957699-60fa1980-ae9a-11e8-83ec-4047d376e976.jpg)
+![4](https://user-images.githubusercontent.com/39272944/44957700-6192b000-ae9a-11e8-8043-7013124f141b.jpg)
+![5](https://user-images.githubusercontent.com/39272944/44957701-6192b000-ae9a-11e8-80f7-dab7497f0ceb.jpg)
+![6](https://user-images.githubusercontent.com/39272944/44957704-66576400-ae9a-11e8-9c3e-e59a831934df.jpg)
+![7](https://user-images.githubusercontent.com/39272944/44957696-5f305600-ae9a-11e8-8098-975c07922f00.jpg)
+### b. Wireframe (media)
+Encuentra el prototipo de media fidelidad [AQUÍ](https://www.figma.com/file/KfH0UszFAMTPflswEGfWyk6z/marketplaces?node-id=0%3A1)
+### c. Alta fidelidad
+
+### 2. Mobile
+
+### a. Baja fidelidad
+
+### b. Wireframe (media)
+### c. Alta fidelidad
 
 ### Problemas identificados en la investigación (del cliente y del usuario)
 
