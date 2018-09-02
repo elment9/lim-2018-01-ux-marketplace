@@ -46,7 +46,7 @@ Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery 
 ![](https://user-images.githubusercontent.com/39272944/44460118-91f06980-a5d1-11e8-8396-202447e787ec.jpg)
 ![](https://user-images.githubusercontent.com/39272944/44460124-974db400-a5d1-11e8-85ec-1d667eeda23d.jpg)
 ![](https://user-images.githubusercontent.com/39272944/44460128-9ae13b00-a5d1-11e8-8364-e11d306f02e4.jpg)
-### b.  Problemas identificados
+### b.  Datos importantes
 * El principal medio de comunicación es Facebook.
 
 * Los trabajadores de Fruta La grande requieren los siguientes datos para la confirmación de un pedido: las cantidades, la dirección de envío, el teléfono, quién va recibir el envío y el medio de pago. 
@@ -96,6 +96,7 @@ Esta actividad se realizó luego de testear el prototipo de alta fidelidad. Los 
 
 ### C. IDEACIÓN
 ### 1. Benchmarking
+![mesa de trabajo 4 copia 7 2x-100](https://user-images.githubusercontent.com/39272944/44961858-b572b880-aedd-11e8-8a2d-550a9f9e8d6d.jpg)
 ### 2. What if
 * ¿Qué tal si el usuario no quisiera registrarse?
 * ¿Qué tal si creamos un personaje que sea igual de amable que los vendedores y que guíe al usuario durante la compra?
@@ -155,6 +156,19 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 - No entiende que es un POS
 
 ### c. Alta fidelidad
+- Los usuarios se tomaban mucho tiempo en encontrar o no encontraron las frutas que se asignaron como tarea. Todos especificaron que sería muy útil un buscador. Teniendo en cuenta los puntos anteriores, se vio la necesidad de reestructurar las categorías, por ello se decidió realizar un  cardsorting online (ver matriz en la parte superior). Finalmente los productos quedaron organizados de la siguiente forma: 
+![matrix](https://user-images.githubusercontent.com/39272944/44957588-28a60b80-ae99-11e8-9a17-7d03b99d3aa1.PNG)
+
+|Fresas y berries|Dulces|Ácidos|Neutras|Exóticas|
+|:----|:---|:---:|:---:|:---:|
+|Fresas| Dátiles | Aguaymanto | Coco |Camu camu|
+|Moras frescas|Melocotón |Lima|Sandía |Sanki |
+|Arándanos| - | Membrillo |- | Pitahaya |
+|Frambuesa| - | - |- |Granada |
+|-| - | - |- |Mamey |
+|-| - | - |- |Kiwi |
+
+
 
 ## V. Planificación 
 ### A. Organizador 
