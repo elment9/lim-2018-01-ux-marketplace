@@ -157,7 +157,6 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 
 ### c. Alta fidelidad
 - Los usuarios se tomaban mucho tiempo en encontrar o no encontraron las frutas que se asignaron como tarea. Todos especificaron que sería muy útil un buscador. Teniendo en cuenta los puntos anteriores, se vio la necesidad de reestructurar las categorías, por ello se decidió realizar un  cardsorting online (ver matriz en la parte superior). Finalmente los productos quedaron organizados de la siguiente forma: 
-![matrix](https://user-images.githubusercontent.com/39272944/44957588-28a60b80-ae99-11e8-9a17-7d03b99d3aa1.PNG)
 
 |Fresas y berries|Dulces|Ácidos|Neutras|Exóticas|
 |:----|:---|:---:|:---:|:---:|

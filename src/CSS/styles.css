@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,500i');
+
+.green {
+background-color: #90B623 !important;
+}
+
+placeholder {
+    color: white !important;
+}
+.height-icon {
+    width: 40;
+    height: 40;
+}
+.font-color {
+    color: white !important;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: bold;
+}
+
+.btn-success {
+    background-color: #90B623 !important;
+    border-bottom: #90B623;
+
+}
+
+.tamano {
+    width: 18px !important;
+}
