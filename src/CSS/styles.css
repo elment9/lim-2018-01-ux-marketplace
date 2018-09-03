@@ -31,3 +31,13 @@ h3 {
 .tamano {
     width: 18px !important;
 }
+
+.font-color-shop {
+    color: #333333 !important;
+    font-weight: bold !important;
+}
+
+.size-basket {
+    width: 40px;
+    height: auto;
+}

@@ -33,6 +33,7 @@
                         Tienda
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" id="all" href="#">Todas</a>
                         <a class="dropdown-item" href="#">Fresas y berries</a>
                         <a class="dropdown-item" href="#">Dulces</a>
                         <a class="dropdown-item" href="#">Ácidas</a>
@@ -41,7 +42,7 @@
                     </div>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Nosotros
+                    <a class="nav-link" id="nosotros" href="#">Nosotros
                         <span class="sr-only">(current)</span>
                     </a>
                 </li>
@@ -93,26 +94,33 @@
             </div>
         </div>
         <!-- CARDS -->
-        
+
     </section>
     <!--STORE -->
 
     <section id="store">
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb bg-white">
-                <li class="breadcrumb-item active" aria-current="page">Tienda</li>
-            </ol>
-        </nav>
+        <div>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb bg-white">
+                    <li class="breadcrumb-item active" aria-current="page">Tienda</li>
+                </ol>
+
+            </nav>
+            <a href="#" class="btn pull-right bg-white">
+                <img class="size-basket" src="img/canasta.png" alt="">
+            </a>
+        </div>
+
         <!--PRODUCTOS -->
         <div class="container-fluid padding">
             <div class="row padding">
                 <div class="col-md-4">
                     <div class="card">
-                        <img class="card-img-top" src="img/team1.png" alt="">
+                        <img class="card-img-top" src="img/arandanos.png" alt="">
                         <div class="card-body">
-                            <h4 class="card-title text-center"> Product</h4>
-                            <p class="card-text text-center">Este es un producto</p>
-                            <div class="center">    
+                            <h4 class="card-title text-center"> Arándano</h4>
+                            <p class="card-text text-center">S/11</p>
+                            <div class="center">
                                 <div class="input-group pull-right">
                                     <span class="input-group-btn">
                                         <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
@@ -125,16 +133,231 @@
                                             <i class="fa fa-plus"></i>
                                         </button>
                                     </span>
-                                </div>                  
+                                </div>
                             </div>
-                            <a href="#" class="btn btn-success pull-right">
-                                <img src="" alt=""> 
-                                Holiwi</a>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
                         </div>
                     </div>
                 </div>
 
-
+                <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="img/fresa.png" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title text-center"> Fresa</h4>
+                            <p class="card-text text-center">S/6</p>
+                            <div class="center">
+                                <div class="input-group pull-right">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
+                                            <i class="fa fa-minus"></i>
+                                        </button>
+                                    </span>
+                                    <input type="text" name="quant[1]" class="form-control input-number tamano" value="1" min="1" max="10">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="plus" data-field="quant[1]">
+                                            <i class="fa fa-plus"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="img/kiwi.png" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title text-center"> Kiwi</h4>
+                            <p class="card-text text-center">S/7</p>
+                            <div class="center">
+                                <div class="input-group pull-right">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
+                                            <i class="fa fa-minus"></i>
+                                        </button>
+                                    </span>
+                                    <input type="text" name="quant[1]" class="form-control input-number tamano" value="1" min="1" max="10">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="plus" data-field="quant[1]">
+                                            <i class="fa fa-plus"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="img/durazno.png" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title text-center"> Durazno</h4>
+                            <p class="card-text text-center">S/12</p>
+                            <div class="center">
+                                <div class="input-group pull-right">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
+                                            <i class="fa fa-minus"></i>
+                                        </button>
+                                    </span>
+                                    <input type="text" name="quant[1]" class="form-control input-number tamano" value="1" min="1" max="10">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="plus" data-field="quant[1]">
+                                            <i class="fa fa-plus"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="img/lima.png" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title text-center"> Lima</h4>
+                            <p class="card-text text-center">S/5</p>
+                            <div class="center">
+                                <div class="input-group pull-right">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
+                                            <i class="fa fa-minus"></i>
+                                        </button>
+                                    </span>
+                                    <input type="text" name="quant[1]" class="form-control input-number tamano" value="1" min="1" max="10">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="plus" data-field="quant[1]">
+                                            <i class="fa fa-plus"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="img/membrillo.png" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title text-center"> Membrillo</h4>
+                            <p class="card-text text-center">S/10</p>
+                            <div class="center">
+                                <div class="input-group pull-right">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
+                                            <i class="fa fa-minus"></i>
+                                        </button>
+                                    </span>
+                                    <input type="text" name="quant[1]" class="form-control input-number tamano" value="1" min="1" max="10">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="plus" data-field="quant[1]">
+                                            <i class="fa fa-plus"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="img/papaya.png" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title text-center"> Papaya</h4>
+                            <p class="card-text text-center">S/3</p>
+                            <div class="center">
+                                <div class="input-group pull-right">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
+                                            <i class="fa fa-minus"></i>
+                                        </button>
+                                    </span>
+                                    <input type="text" name="quant[1]" class="form-control input-number tamano" value="1" min="1" max="10">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="plus" data-field="quant[1]">
+                                            <i class="fa fa-plus"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="img/pitahaya.png" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title text-center"> Pitahaya</h4>
+                            <p class="card-text text-center">S/15</p>
+                            <div class="center">
+                                <div class="input-group pull-right">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
+                                            <i class="fa fa-minus"></i>
+                                        </button>
+                                    </span>
+                                    <input type="text" name="quant[1]" class="form-control input-number tamano" value="1" min="1" max="10">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="plus" data-field="quant[1]">
+                                            <i class="fa fa-plus"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="img/sandia.png" alt="">
+                        <div class="card-body">
+                            <h4 class="card-title text-center"> Sandía</h4>
+                            <p class="card-text text-center">S/3.50</p>
+                            <div class="center">
+                                <div class="input-group pull-right">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="minus" data-field="quant[1]">
+                                            <i class="fa fa-minus"></i>
+                                        </button>
+                                    </span>
+                                    <input type="text" name="quant[1]" class="form-control input-number tamano" value="1" min="1" max="10">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number green" data-type="plus" data-field="quant[1]">
+                                            <i class="fa fa-plus"></i>
+                                        </button>
+                                    </span>
+                                </div>
+                            </div>
+                            <a href="#" class="btn btn-success pull-right font-color-shop">
+                                <img class="size-basket" src="img/canasta.png" alt=""> Agregar
+                            </a>
+                        </div>
+                    </div>
+                </div>
 
             </div>
 
