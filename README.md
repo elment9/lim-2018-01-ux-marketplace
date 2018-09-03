@@ -94,6 +94,9 @@ Esta actividad se realizó luego de testear el prototipo de alta fidelidad. Los 
 
 ### 5. Flujo / árbol de contenidos
 
+![diagrama en blanco](https://user-images.githubusercontent.com/39272944/44979636-42942c80-af33-11e8-82e3-7bf652371de3.png)
+
+
 ### C. IDEACIÓN
 ### 1. Benchmarking
 ![mesa de trabajo 4 copia 7 2x-100](https://user-images.githubusercontent.com/39272944/44961858-b572b880-aedd-11e8-8a2d-550a9f9e8d6d.jpg)
