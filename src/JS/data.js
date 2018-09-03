@@ -3,6 +3,7 @@ const nosotros = document.getElementById('nosotros');
 const all = document.getElementById('all');
 const store = document.getElementById('store');
 const btnProduct = document.getElementById('btn-product');
+const btnProduct2 = document.getElementById('btn-product2');
 
 store.style.display = "none";
 const showStore = () => {

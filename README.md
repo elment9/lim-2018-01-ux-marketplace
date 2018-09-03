@@ -94,7 +94,8 @@ Esta actividad se realizó luego de testear el prototipo de alta fidelidad. Los 
 
 ### 5. Flujo / árbol de contenidos
 
-![diagrama en blanco](https://user-images.githubusercontent.com/39272944/44979636-42942c80-af33-11e8-82e3-7bf652371de3.png)
+![Flujo Marketplace Fruta La Grande](https://user-images.githubusercontent.com/39272944/44990518-dd523280-af56-11e8-84e0-f7906e482585.png)
+
 
 
 ### C. IDEACIÓN
@@ -181,7 +182,7 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 ### b. Alta fidelidad
 
 - En general, los usuarios siguieron la ruta de compra.
-- A la hora de buscar un producto, la mayoría optó por ir al buscador. Aunque este no esté habilitado.
+- A la hora de buscar un producto, la mayoría optó por ir al buscador. Aunque este no esté habilitado en el prototipo.
 - Algunos tardaron en encontrar el menú debido que al hacer scroll down este desaparecía.  
 
 ## V. Planificación 
