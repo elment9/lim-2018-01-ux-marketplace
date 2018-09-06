@@ -1,5 +1,9 @@
 # MARKETPLACE FRUTA LA GRANDE 
 
+[**Prototipo interactivo**](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit?usp=sharing)
+
+[**Maquetado**](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit?usp=sharing)
+
 <img width="200" alt="logo 2x" src="https://user-images.githubusercontent.com/39272944/44957304-73725400-ae96-11e8-8e96-1c5d304d2af1.png">
 
 
@@ -182,9 +186,12 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 
 - En general, los usuarios siguieron la ruta de compra.
 - A la hora de buscar un producto, la mayoría optó por ir al buscador. Aunque este no esté habilitado.
-- Algunos tardaron en encontrar el menú debido que al hacer scroll down este desaparecía.  
+- Algunos tardaron en encontrar el menú debido que al hacer scroll down este desaparecía. 
 
-## V. Planificación 
+## V. ¿Quieres conocer más del proyecto? Mira nuestro video aquí
+https://www.useloom.com/share/bb341393cb9041118b1be6f0b15b0c03 
+
+## VI. Planificación 
 ### A. Organizador 
 ![image](https://user-images.githubusercontent.com/39272944/44961139-64f55e00-aed1-11e8-8168-32136c9d47b6.png)
 
