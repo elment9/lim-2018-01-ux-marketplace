@@ -188,10 +188,15 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 - A la hora de buscar un producto, la mayoría optó por ir al buscador. Aunque este no esté habilitado.
 - Algunos tardaron en encontrar el menú debido que al hacer scroll down este desaparecía. 
 
-## V. ¿Quieres conocer más del proyecto? Mira nuestro video aquí
+## V. ¿Quieres conocer más sobre el proyecto? Mira el video aquí
 https://www.useloom.com/share/bb341393cb9041118b1be6f0b15b0c03 
 
-## VI. Planificación 
+## VII. Link de Zeplin 
+
+[**Aquí](zpl.io/a3l89kA)
+
+## VII. Planificación 
+
 ### A. Organizador 
 ![image](https://user-images.githubusercontent.com/39272944/44961139-64f55e00-aed1-11e8-8168-32136c9d47b6.png)
 
