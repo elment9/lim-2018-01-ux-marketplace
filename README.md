@@ -2,7 +2,7 @@
 
 [**Prototipo interactivo**](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit?usp=sharing)
 
-[**Maquetado**](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit?usp=sharing)
+[**Maquetado**](https://elment9.github.io/lim-2018-01-ux-marketplace/src/)
 
 <img width="200" alt="logo 2x" src="https://user-images.githubusercontent.com/39272944/44957304-73725400-ae96-11e8-8e96-1c5d304d2af1.png">
 
