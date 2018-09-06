@@ -1,19 +1,9 @@
-const home = document.getElementById('home');
-const nosotros = document.getElementById('nosotros');
-const all = document.getElementById('all');
-const store = document.getElementById('store');
-const btnProduct = document.getElementById('btn-product');
-
-store.style.display = "none";
-const showStore = () => {
-    store.style.display = "block";
-    home.style.display = "none";
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+const myFunction = () => {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
 }
-const showHome = () => {
-    store.style.display = "none";
-    home.style.display = "block";
-}
-
-btnProduct.addEventListener('click', showStore)
-nosotros.addEventListener('click', showHome)
-all.addEventListener('click', showStore)
