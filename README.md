@@ -1,6 +1,6 @@
 # MARKETPLACE FRUTA LA GRANDE 
 
-[**Prototipo interactivo**](https://docs.google.com/document/d/12VpwAbI-HoZvCIFqjcVVO8WL-G0JIk9yyMpmAeiIiAw/edit?usp=sharing)
+[**Prototipo interactivo**](https://marvelapp.com/9ef8d6h)
 
 [**Maquetado**](https://elment9.github.io/lim-2018-01-ux-marketplace/src/)
 
@@ -191,8 +191,8 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 ## V. ¿Quieres conocer más sobre el proyecto? Mira el video aquí
 https://www.useloom.com/share/bb341393cb9041118b1be6f0b15b0c03 
 
-## VII. Link de Zeplin 
-
+## VII. Link de Zeplin y userflow Marvel 
+[**Aquí](https://userflows.marvelapp.com/9ef8d6h)
 [**Aquí](zpl.io/a3l89kA)
 
 ## VII. Planificación 
