@@ -35,11 +35,11 @@ Para el presente proyecto decidimos usar las siguientes herramientas:
 ### A. DESCUBRIMIENTO 
 ### 1. Antecedentes
 
-De acuerdo a la Sociedad Peruana de Gastronomía (Apega), el consumo de productos orgánicos se ha incrementado en un 70% durante los últimos 10 años. Esta demando ha aumentado la oferta, por ello a la tradicional bioferia de Miraflores se han sumado otras ferias distritales y emprendimientos como **Fruta La Grande**.  
+De acuerdo a la Sociedad Peruana de Gastronomía (Apega), el consumo de productos orgánicos se ha incrementado en un 70% durante los últimos 10 años. Esta demanda ha aumentado la oferta, por ello a la tradicional bioferia de Miraflores se han sumado otras ferias distritales y emprendimientos como **Fruta La Grande**.  
 
-Estos últimos resultan importantes, porque según un informe de la revista Semana Económica, el valor económico de una canasta alimentaria de una tienda orgánica es un 73% mayor que una comprada en supermercado, y 48% mayor que una comprada en una bioferia. Y en términos generales una canasta alimentaria orgánica comprada en una tienda es 19% más cara que una comprada en una bioferia. (https://bit.ly/2nY2KjL) 
+Estos últimos resultan importantes, porque según un informe de la revista Semana Económica, el valor económico de una canasta alimentaria de una tienda orgánica es un 73% mayor que una comprada en supermercado, y 48% mayor que una comprada en una bioferia. Siendo aún más específicos, una canasta alimentaria orgánica comprada en una tienda es 19% más cara que una comprada en una bioferia. (https://bit.ly/2nY2KjL) 
 
-Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery gratuito y y que las bioferias requieren que el usuario se desplace, este contexto favorece a nuestro cliente. 
+Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery gratuito, y que las bioferias requieren que el usuario se desplace, este contexto favorece a nuestro cliente. 
 
 ![](https://user-images.githubusercontent.com/39272944/44459906-d7f8fd80-a5d0-11e8-949e-aae48c132131.png)
 
