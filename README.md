@@ -1,5 +1,7 @@
 # MARKETPLACE FRUTA LA GRANDE 
 
+[**Nota en Medium**](https://medium.com/@elizabethmendoza_10036/ux-design-fruta-la-grande-del-huerto-al-mercado-online-9749b5a7a2c8)
+
 [**Prototipo interactivo**](https://marvelapp.com/9ef8d6h)
 
 [**Maquetado**](https://elment9.github.io/lim-2018-01-ux-marketplace/src/)
@@ -74,6 +76,9 @@ Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery 
 ![mesa de trabajo 1 2x-100](https://user-images.githubusercontent.com/39272944/44958101-c8b36300-aea0-11e8-90f4-f0a0349bac77.jpg)
 
 ### a. Guía de preguntas
+
+[**Lee la guia aquí**](https://docs.google.com/document/d/15CUpaTklsqVVa86HxHLbz4pDYweix8QzaSfWjHyFyDE/edit?usp=sharing)
+
 ### b. Insights
 Para extraer los siguientes insights se realizó la técnica del affinity map:
 
@@ -192,8 +197,12 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 https://www.useloom.com/share/bb341393cb9041118b1be6f0b15b0c03 
 
 ## VII. Link de Zeplin y userflow Marvel 
-[**Aquí](https://userflows.marvelapp.com/9ef8d6h)
-[**Aquí](zpl.io/a3l89kA)
+* [**Userflow**](https://userflows.marvelapp.com/9ef8d6h)
+* [**Zeplin**](zpl.io/a3l89kA)
+
+## VIII. Entrevistas, tests
+[**Aquí**](https://drive.google.com/file/d/137Qwzyj7HzgIsAlPhl9eob9spS4nfx06/view?usp=sharing)
+
 
 ## VII. Planificación 
 
