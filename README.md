@@ -1,5 +1,11 @@
 # MARKETPLACE FRUTA LA GRANDE 
 
+[**Nota en Medium**](https://medium.com/@elizabethmendoza_10036/ux-design-fruta-la-grande-del-huerto-al-mercado-online-9749b5a7a2c8)
+
+[**Prototipo interactivo**](https://marvelapp.com/9ef8d6h)
+
+[**Maquetado**](https://elment9.github.io/lim-2018-01-ux-marketplace/src/)
+
 <img width="200" alt="logo 2x" src="https://user-images.githubusercontent.com/39272944/44957304-73725400-ae96-11e8-8e96-1c5d304d2af1.png">
 
 
@@ -31,11 +37,11 @@ Para el presente proyecto decidimos usar las siguientes herramientas:
 ### A. DESCUBRIMIENTO 
 ### 1. Antecedentes
 
-De acuerdo a la Sociedad Peruana de Gastronomía (Apega), el consumo de productos orgánicos se ha incrementado en un 70% durante los últimos 10 años. Esta demando ha aumentado la oferta, por ello a la tradicional bioferia de Miraflores se han sumado otras ferias distritales y emprendimientos como **Fruta La Grande**.  
+De acuerdo a la Sociedad Peruana de Gastronomía (Apega), el consumo de productos orgánicos se ha incrementado en un 70% durante los últimos 10 años. Esta demanda ha aumentado la oferta, por ello a la tradicional bioferia de Miraflores se han sumado otras ferias distritales y emprendimientos como **Fruta La Grande**.  
 
-Estos últimos resultan importantes, porque según un informe de la revista Semana Económica, el valor económico de una canasta alimentaria de una tienda orgánica es un 73% mayor que una comprada en supermercado, y 48% mayor que una comprada en una bioferia. Y en términos generales una canasta alimentaria orgánica comprada en una tienda es 19% más cara que una comprada en una bioferia. (https://bit.ly/2nY2KjL) 
+Estos últimos resultan importantes, porque según un informe de la revista Semana Económica, el valor económico de una canasta alimentaria de una tienda orgánica es un 73% mayor que una comprada en supermercado, y 48% mayor que una comprada en una bioferia. Siendo aún más específicos, una canasta alimentaria orgánica comprada en una tienda es 19% más cara que una comprada en una bioferia. (https://bit.ly/2nY2KjL) 
 
-Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery gratuito y y que las bioferias requieren que el usuario se desplace, este contexto favorece a nuestro cliente. 
+Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery gratuito, y que las bioferias requieren que el usuario se desplace, este contexto favorece a nuestro cliente. 
 
 ![](https://user-images.githubusercontent.com/39272944/44459906-d7f8fd80-a5d0-11e8-949e-aae48c132131.png)
 
@@ -70,6 +76,9 @@ Teniendo en cuenta que no muchas de las tiendas no ofrecen servicio de delivery 
 ![mesa de trabajo 1 2x-100](https://user-images.githubusercontent.com/39272944/44958101-c8b36300-aea0-11e8-90f4-f0a0349bac77.jpg)
 
 ### a. Guía de preguntas
+
+[**Lee la guia aquí**](https://docs.google.com/document/d/15CUpaTklsqVVa86HxHLbz4pDYweix8QzaSfWjHyFyDE/edit?usp=sharing)
+
 ### b. Insights
 Para extraer los siguientes insights se realizó la técnica del affinity map:
 
@@ -182,10 +191,27 @@ Pasa por alto el botón ver más. Uno de ellos especificó que lo ve muy pequeñ
 ### b. Alta fidelidad
 
 - En general, los usuarios siguieron la ruta de compra.
+<<<<<<< HEAD
 - A la hora de buscar un producto, la mayoría optó por ir al buscador. Aunque este no esté habilitado en el prototipo.
 - Algunos tardaron en encontrar el menú debido que al hacer scroll down este desaparecía.  
+=======
+- A la hora de buscar un producto, la mayoría optó por ir al buscador. Aunque este no esté habilitado.
+- Algunos tardaron en encontrar el menú debido que al hacer scroll down este desaparecía. 
 
-## V. Planificación 
+## V. ¿Quieres conocer más sobre el proyecto? Mira el video aquí
+https://www.useloom.com/share/bb341393cb9041118b1be6f0b15b0c03 
+
+## VII. Link de Zeplin y userflow Marvel 
+* [**Userflow**](https://userflows.marvelapp.com/9ef8d6h)
+* [**Zeplin**](zpl.io/a3l89kA)
+
+## VIII. Entrevistas, tests
+[**Aquí**](https://drive.google.com/file/d/137Qwzyj7HzgIsAlPhl9eob9spS4nfx06/view?usp=sharing)
+
+
+## VII. Planificación 
+>>>>>>> 62707e95163c4a729bb7dabcc2a1b5f751b43c8b
+
 ### A. Organizador 
 ![image](https://user-images.githubusercontent.com/39272944/44961139-64f55e00-aed1-11e8-8168-32136c9d47b6.png)
 
